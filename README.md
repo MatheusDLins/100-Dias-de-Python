@@ -1,7 +1,7 @@
 # 100-Dias-de-Python
 Desafio de fazer um código python por dia durante 100 dias!
 
-Ao longo deste curso abrangente, cobrimos uma enorme quantidade de ferramentas e tecnologias, incluindo:
+Ao longo deste curso cobrimos uma enorme quantidade de ferramentas e tecnologias, incluindo:
 
 Python 3 - a versão mais recente do Python
 
