@@ -13,11 +13,11 @@ Desenvolvimento de jogos em Python
 
 Raspagem da web
 
-Sopa Linda
+Beautiful Soup
 
 Driver da Web Selênio
 
-Solicitar
+Request
 
 Formulários WT
 
@@ -33,9 +33,9 @@ Plotamente
 
 Scikit aprender
 
-Nascido no mar
+Seaborn
 
-Tartaruga
+Turtle
 
 Desenvolvimento de aplicativos de desktop GUI em Python
 
@@ -55,9 +55,9 @@ Git, GitHub e controle de versão
 
 Desenvolvimento Web back-end
 
-Frasco
+Bottle
 
-DESCANSAR
+REST
 
 APIs
 
